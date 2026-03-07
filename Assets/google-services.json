@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060547349728",
+    "project_id": "line-dunk-37638",
+    "storage_bucket": "line-dunk-37638.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060547349728:android:3e4f48bd45140075959485",
+        "android_client_info": {
+          "package_name": "com.KeaGames.LineDunk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaSPA4GIV29LEuw0vlFCzBfLA9nIC2lYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
